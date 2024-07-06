@@ -1,0 +1,7 @@
+# this is used for saving and restoring the idex offsets
+# create the file and insert the following content (without the #) to start
+#
+[Variables]
+xoffset = -2.61
+yoffset = 1.09
+zoffset = 0.4
